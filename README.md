@@ -40,7 +40,8 @@ Signup Page
 
 
 Chat Interface
-![Chat UI](./screenshots/login.png)
+
+![Chat UI](https://github.com/yashmalavade2002/Chat-App/blob/ee9862b9f7c49b7abfea1afad3dd944c53c79e17/Screenshot%20(125).png)
 
 
 Messages / Conversation
