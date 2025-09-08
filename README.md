@@ -26,8 +26,7 @@ A real-time chat application built using **Node.js, Express.js, MongoDB, React.j
 * Responsive and modern UI with DaisyUI
 * User-friendly notifications for messages
 
-
-  ---
+ ---
   
 
 📸 Screenshots
