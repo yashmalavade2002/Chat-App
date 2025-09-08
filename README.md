@@ -32,7 +32,8 @@ A real-time chat application built using **Node.js, Express.js, MongoDB, React.j
 📸 Screenshots
 
 Login Page
-![Login Page](./screenshots/login.png)
+
+![Login Page](https://github.com/yashmalavade2002/Chat-App/blob/25ee788d69a2b37391049778bf6fb5a3579c9ce1/Screenshot%20(127).png)
 
 
 Signup Page
