@@ -37,7 +37,8 @@ Login Page
 
 
 Signup Page
-![Signup Page](./screenshots/login.png)
+
+![Signup Page](https://github.com/yashmalavade2002/Chat-App/blob/ee5114e7d9d54d3de090fc788f57e9a8688a4a75/Screenshot%20(128).png)
 
 
 Chat Interface
